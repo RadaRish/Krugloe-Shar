@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-1",
-      "name": "1",
+      "id": "0--",
+      "name": "Вид сверху",
       "levels": [
         {
           "tileSize": 256,
@@ -37,20 +37,20 @@ var APP_DATA = {
           "yaw": -2.909405678228076,
           "pitch": 0.3297952788128278,
           "rotation": 0,
-          "target": "1-2"
+          "target": "1-"
         },
         {
           "yaw": 2.6454979624881707,
           "pitch": 0.6062989194876582,
           "rotation": 0,
-          "target": "2-3"
+          "target": "2--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-2",
-      "name": "2",
+      "id": "1-",
+      "name": "Веранда",
       "levels": [
         {
           "tileSize": 256,
@@ -81,20 +81,20 @@ var APP_DATA = {
           "yaw": -1.4606518593659494,
           "pitch": 0.07958716964334123,
           "rotation": 0,
-          "target": "2-3"
+          "target": "2--"
         },
         {
           "yaw": -2.045648823716519,
           "pitch": 0.10401722014923642,
           "rotation": 0,
-          "target": "0-1"
+          "target": "0--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-3",
-      "name": "3",
+      "id": "2--",
+      "name": "На входе",
       "levels": [
         {
           "tileSize": 256,
@@ -125,26 +125,26 @@ var APP_DATA = {
           "yaw": 0.09886223712144648,
           "pitch": 0.016947037063452797,
           "rotation": 0,
-          "target": "3-4"
+          "target": "3--"
         },
         {
           "yaw": 2.797123704511143,
           "pitch": 0.07592193123003455,
           "rotation": 0,
-          "target": "1-2"
+          "target": "1-"
         },
         {
           "yaw": -2.34706413283012,
           "pitch": 0.09276879967064033,
           "rotation": 0,
-          "target": "0-1"
+          "target": "0--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-4",
-      "name": "4",
+      "id": "3--",
+      "name": "Сервировка кейтеринг",
       "levels": [
         {
           "tileSize": 256,
@@ -175,7 +175,7 @@ var APP_DATA = {
           "yaw": -2.678073129420783,
           "pitch": 0.09651632991679548,
           "rotation": 0,
-          "target": "2-3"
+          "target": "2--"
         }
       ],
       "infoHotspots": []
